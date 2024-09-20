@@ -1,1 +1,2 @@
 Hello, this is first line in the file
+Line-2: content from feature branch
