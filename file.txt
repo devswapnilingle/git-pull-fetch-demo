@@ -1,2 +1,2 @@
 Hello, this is first line in the file
-Line2 - content from master branch
+Line2 - content from master branch & feature branch
